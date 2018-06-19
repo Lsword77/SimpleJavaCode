@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoopConditions.iml" filepath="$PROJECT_DIR$/LoopConditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumFirstAndLast/SumFirstAndLast.iml" filepath="$PROJECT_DIR$/SumFirstAndLast/SumFirstAndLast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumDigits/sumDigits.iml" filepath="$PROJECT_DIR$/sumDigits/sumDigits.iml" />
+    </modules>
+  </component>
+</project>
